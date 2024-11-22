@@ -1,0 +1,11 @@
+/home/randomberth/RustTest/rust_projects/snake/target/debug/deps/libav1_grain-7e4365f74d93fc32.rmeta: /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/lib.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/create.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver/util.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/parse.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/util.rs
+
+/home/randomberth/RustTest/rust_projects/snake/target/debug/deps/av1_grain-7e4365f74d93fc32.d: /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/lib.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/create.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver/util.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/parse.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/util.rs
+
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/lib.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/create.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver/util.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/parse.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/util.rs:

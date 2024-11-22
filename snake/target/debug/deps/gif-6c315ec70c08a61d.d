@@ -1,0 +1,12 @@
+/home/randomberth/RustTest/rust_projects/snake/target/debug/deps/libgif-6c315ec70c08a61d.rmeta: /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/lib.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/traits.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/common.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/mod.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/decoder.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/converter.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/encoder.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/../README.md
+
+/home/randomberth/RustTest/rust_projects/snake/target/debug/deps/gif-6c315ec70c08a61d.d: /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/lib.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/traits.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/common.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/mod.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/decoder.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/converter.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/encoder.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/../README.md
+
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/lib.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/traits.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/common.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/mod.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/decoder.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/reader/converter.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/encoder.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.13.1/src/../README.md:

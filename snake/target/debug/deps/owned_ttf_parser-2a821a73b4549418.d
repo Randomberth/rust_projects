@@ -1,0 +1,10 @@
+/home/randomberth/RustTest/rust_projects/snake/target/debug/deps/libowned_ttf_parser-2a821a73b4549418.rmeta: /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/lib.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/convert.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/owned.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/preparse.rs
+
+/home/randomberth/RustTest/rust_projects/snake/target/debug/deps/libowned_ttf_parser-2a821a73b4549418.rlib: /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/lib.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/convert.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/owned.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/preparse.rs
+
+/home/randomberth/RustTest/rust_projects/snake/target/debug/deps/owned_ttf_parser-2a821a73b4549418.d: /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/lib.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/convert.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/owned.rs /home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/preparse.rs
+
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/lib.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/convert.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/owned.rs:
+/home/randomberth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/preparse.rs:
